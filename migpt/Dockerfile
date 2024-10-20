@@ -1,1 +1,1 @@
-from idootop/mi-gpt::a6b1422a9c3
+from idootop/mi-gpt@sha256:4b6d34b4653506090308ced83704ad3054438c47860e8b59c7e7e0a2f95f6edb
